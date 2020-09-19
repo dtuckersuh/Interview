@@ -1,4 +1,4 @@
-#![DFS Traversal](https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13)
+#[DFS Traversal](https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13)
 
 ## A primer, before going deep
 - Definition
